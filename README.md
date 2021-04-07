@@ -1,6 +1,6 @@
 # Profile-Card
 
-Creating a Profile Card to understand the concept of Flexbox. How to use CSS effectively and try tp use Figma.
+Creating a Profile Card to understand the concept of Flexbox. How to use CSS effectively and try to use Figma.
 
 In this project everything was designed by Figma. A great tool to check how the project will be done.
 
