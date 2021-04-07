@@ -7,7 +7,7 @@ In this project everything was designed by Figma. A great tool to check how the 
 ### Project:
 
 <p align="center">
-  <img src=>
+  <img src="card.gif">
 </p>
 
 ***
