@@ -39,17 +39,17 @@ h2{
 
 #insta{
     list-style-type: none;
-    list-style-image: url(./icons/instagram.png);
+    list-style-image: url(./assets/instagram.png);
 }
 
 #linkedin{
     list-style-type: none;
-    list-style-image: url(./icons/linkedin.png);
+    list-style-image: url(./assets/linkedin.png);
 }
 
 #git{
     list-style-type: none;
-    list-style-image: url(./icons/github.png);
+    list-style-image: url(./assets/github.png);
 }
 
 .foto{
