@@ -4,7 +4,7 @@ Creating a Profile Card to understand the concept of Flexbox. How to use CSS eff
 
 In this project everything was designed by Figma. A great tool to check how the project will be done.
 
-### Project:
+# Project:
 
 <p align="center">
   <img src="card.gif">
@@ -12,7 +12,7 @@ In this project everything was designed by Figma. A great tool to check how the 
 
 ***
 
-### :electron:	 Technologies:
+# :electron:	 Technologies:
 
 [![HTML](https://img.shields.io/badge/HTML-red?style=for-the-badge&logo=HTML5&labelColor=black)](https://github.com/JuniorMacedo91)
 
@@ -20,5 +20,7 @@ In this project everything was designed by Figma. A great tool to check how the 
 
 [![Figma](https://img.shields.io/badge/figma-yellow?style=for-the-badge&logo=figma&labelColor=black)](https://github.com/JuniorMacedo91)
 ***
-### 📑 License:
-![GitHub](https://img.shields.io/github/license/juniormacedo91/clone-instagram)
+
+# Check out the Web Page
+
+https://juniormacedo91.github.io/Profile-Card/
