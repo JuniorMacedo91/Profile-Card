@@ -1,10 +1,10 @@
 # Profile-Card
 
-Creating a Profile Card to understand the concept of Flexbox and Glassmorphism . How to use CSS effectively and try to use Figma.
+Card criado para aprimorar os conceitos de Flexbox e aprender como criar Glassmorphism em CSS.
 
-In this project everything was designed by Figma. A great tool to check how the project will be done.
+Todo o design foi criado através do Figma.
 
-# Project:
+# Projeto:
 
 <p align="center">
   <img src="card.gif">
@@ -12,7 +12,7 @@ In this project everything was designed by Figma. A great tool to check how the 
 
 ***
 
-# :electron:	 Technologies:
+# :electron:	 Tecnologias:
 
 [![HTML](https://img.shields.io/badge/HTML-red?style=for-the-badge&logo=HTML5&labelColor=black)](https://github.com/JuniorMacedo91)
 
